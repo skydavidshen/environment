@@ -1,0 +1,58 @@
+# ----------------------------
+# 默认
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost 
+fe80::1%lo0	localhost
+
+0.0.0.0 account.jetbrains.com
+127.0.0.1 www.bb-dev.com
+127.0.0.1 test.bb-dev.com
+127.0.0.1 www.test.com
+127.0.0.1 www.api.com
+127.0.0.1 www.test-dev.com
+127.0.0.1 www.api.com
+172.100.10.10 elk.server.com
+127.0.0.1 www.testphp.com
+127.0.0.1 www.xhprof.com
+127.0.0.1 www.lumen-blog.com
+127.0.0.1 www.laravel-blog.com
+127.0.0.1 www.buybest-api.com
+127.0.0.1 www.my-nuxt.com
+127.0.0.1 dev.buybest.com
+127.0.0.1 apidev.buybest.com
+127.0.0.1 mdev.buybest.com
+127.0.0.1 dev.m.buybest.com
+127.0.0.1 dev.yii.com
+127.0.0.1 dev.api.buybest.com
+34.217.107.66 www.buybest.com
+127.0.0.1 www-dev.mildland.cn
+127.0.0.1 m-dev.mildland.cn
+127.0.0.1 mall-dev.mildland.cn
+127.0.0.1 api-dev.mildland.cn
+127.0.0.1 e-dev.mildland.cn
+127.0.0.1 cdn-dev.mildland.cn
+127.0.0.1 img-dev.koubeirc.com
+
+
+
+202.108.22.5 www.baidu.com
+172.100.10.10 deploy.ihercules.cn
+0.0.0.0 account.jetbrains.com
+
+
+# ============================
+# 示例域名
+
+# ----------------------------
+# 开发
+
+#192.168.1.80 mydomain.com
+
+
